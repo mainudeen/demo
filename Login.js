@@ -55,7 +55,7 @@ function TextInput() {
         <Text>or</Text>
         <View style={styles.boder}></View>
         <TouchableOpacity onPress={() => navigation.navigate('Homes')}>
-          <Text style={styles.Button}>Loing Now</Text>
+          <Text style={styles.Button}>Loing  Now</Text>
         </TouchableOpacity>
        <TouchableOpacity>
         <Text>Sing Up</Text>
